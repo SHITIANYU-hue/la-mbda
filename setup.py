@@ -51,7 +51,7 @@ setup(
         'Markdown==3.3.4',
         'matplotlib==3.3.4',
         'moviepy==1.0.3',
-        'mujoco-py==2.0.2.7',
+        # 'mujoco-py==2.0.2.7',
         'numpy==1.19.2',
         'oauthlib==3.1.0',
         'opt-einsum==3.3.0',
@@ -83,6 +83,6 @@ setup(
         'wrapt==1.12.1',
         'xmltodict==0.12.0',
         'zipp==3.4.1',
-        'safety_gym @ https://github.com/yardenas/safety-gym/tarball/dm_hack'
+        # 'safety_gym @ https://github.com/yardenas/safety-gym/tarball/dm_hack'
     ]
 )
